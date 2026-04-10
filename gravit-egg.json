@@ -14,6 +14,7 @@
         "GravitLauncher Java 25 GHCR": "ghcr.io\/gravit-core\/gravit-eggs:java_25",
         "GravitLauncher Java 22 DOCKER": "enchald\/gravit-core:java-22",
         "GravitLauncher Java 22 GHCR": "ghcr.io\/gravit-core\/gravit-eggs:java_22",
+        "GravitLauncher Java 25 GHCR": "ghcr.io\/gravit-core\/gravit-eggs:java_25",
         "GravitLauncher Java 21 DOCKER": "enchald\/gravit-core:java-21",
         "GravitLauncher Java 21 GHCR": "ghcr.io\/gravit-core\/gravit-eggs:java_21",
         "GravitLauncher Java 17 DOCKER": "enchald\/gravit-core:java-17",
